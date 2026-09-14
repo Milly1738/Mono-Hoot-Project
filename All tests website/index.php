@@ -569,14 +569,13 @@ $owlSmall = '<svg viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="15"
     </div>
   </section>
 
-  <!-- PROJECTS -->
+   <!-- PROJECTS -->
   <section class="projects wrap" id="work">
     <div class="projects-head">
       <div>
         <div class="eyebrow"><span class="dot"></span>Selected work</div>
         <h2>Recent projects</h2>
       </div>
-      <a href="#" class="all-work">All work →</a>
     </div>
 
     <div class="project-grid">
